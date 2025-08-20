@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Namgay Wangchuk</h1>
-<h3 align="center">🌍 Frontend Alchemist | UI Enthusiast | Web Crafter from Bhutan</h3>
+<h3 align="center">🌍 Frontend Alchemist | Backend Architect | Web Crafter from Bhutan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namgay33&label=Profile%20views&color=0e75b6&style=flat" alt="namgay33" /> </p>
 
