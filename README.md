@@ -6,7 +6,22 @@
   <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://photos.google.com/photo/AF1QipPW3MqtRGsfEfyEVI7zjH41V7L9hi0o2RMjwqU4" alt="namgay33" />
+  <img src="https://komarev.com/ghpvc/?username=namgay33&label=Profile%20views&color=0e75b6&style=flat-square" alt="namgay33" />
+</p>
+
+---
+
+## Portfolio Preview
+
+<p align="center">
+  <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
+    <img
+      src="https://image.thum.io/get/width/1200/crop/675/https://portfolio-frontend-sigma-ten.vercel.app/"
+      alt="Portfolio Preview"
+      width="100%"
+      style="border-radius:12px;border:1px solid #30363d;"
+    />
+  </a>
 </p>
 
 ---
@@ -134,7 +149,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/194195114?v=4" alt="namgay33" />
+    <img
+      src="https://avatars.githubusercontent.com/u/194195114?v=4"
+      alt="namgay33"
+      width="180"
+      style="border-radius:50%;border:2px solid #30363d;"
+    />
   </a>
 </p>
 
