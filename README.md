@@ -134,7 +134,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=namgay33&theme=radical&no-frame=true&row=1&column=6" alt="namgay33" />
+    <img src="https://avatars.githubusercontent.com/u/194195114?v=4" alt="namgay33" />
   </a>
 </p>
 
