@@ -11,16 +11,6 @@
 
 ---
 
-## Portfolio Preview
-
-<p align="center">
-  <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
-    <img src="assets/portfolio-preview.png" alt="Portfolio Preview" width="100%" />
-  </a>
-</p>
-
----
-
 ## About Me
 
 - I craft **beautiful, responsive, and user-centric** web experiences using modern frontend technologies. When I'm not coding, I'm probably learning something new, sketching UI ideas, or sipping tea with a view of the Himalayas.
@@ -143,8 +133,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/namgay33" target="_blank">
-    <img src="assets/profile.png" alt="namgay33" width="180" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/194195114?v=4" alt="namgay33" />
   </a>
 </p>
 
