@@ -15,12 +15,7 @@
 
 <p align="center">
   <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
-    <img
-      src="https://image.thum.io/get/width/1200/crop/675/https://portfolio-frontend-sigma-ten.vercel.app/"
-      alt="Portfolio Preview"
-      width="100%"
-      style="border-radius:12px;border:1px solid #30363d;"
-    />
+    <img src="assets/portfolio-preview.png" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
@@ -148,13 +143,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img
-      src="https://avatars.githubusercontent.com/u/194195114?v=4"
-      alt="namgay33"
-      width="180"
-      style="border-radius:50%;border:2px solid #30363d;"
-    />
+  <a href="https://github.com/namgay33" target="_blank">
+    <img src="assets/profile.png" alt="namgay33" width="180" />
   </a>
 </p>
 
