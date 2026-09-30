@@ -6,7 +6,7 @@
   <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <img src="https://drive.google.com/file/d/16ATWMJleICWVEcsqN7tEkoiVdMIZ36PG/view?usp=drive_link" alt="namgay33" />
+  <img src="https://photos.google.com/photo/AF1QipPW3MqtRGsfEfyEVI7zjH41V7L9hi0o2RMjwqU4" alt="namgay33" />
 </p>
 
 ---
