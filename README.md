@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
-    <img src="https://image.thum.io/get/width/1200/crop/675/https://portfolio-frontend-sigma-ten.vercel.app/" alt="Portfolio Preview" width="100%" />
+    <img src="assets/portfolio-preview.gif" alt="Portfolio Preview" width="100%" />
   </a>
 </p>
 
