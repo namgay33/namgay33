@@ -132,19 +132,13 @@
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namgay33&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="namgay33" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=namgay33&show_icons=true&locale=en&theme=radical&hide_border=true" alt="namgay33" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namgay33&theme=radical&hide_border=true" alt="namgay33" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=namgay33&theme=radical&no-frame=true&row=1&column=6" alt="namgay33" />
+  <a href="https://github.com/namgay33" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/194195114?v=4" alt="namgay33" width="180" />
   </a>
 </p>
 
