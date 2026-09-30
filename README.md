@@ -1,39 +1,39 @@
-<h1 align="center">Hi 👋, I'm Namgay Wangchuk</h1>
+<h1 align="center">Hi, I'm Namgay Wangchuk</h1>
 
-<h3 align="center">🌍 Frontend Alchemist | Backend Architect | Web Crafter from Bhutan</h3>
+<h3 align="center">Frontend Alchemist | Backend Architect | Web Crafter from Bhutan</h3>
 
 <p align="center">
-  <a href="https://portfolio-frontend-sigma-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-frontend-sigma-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=namgay33&label=Profile%20views&color=0e75b6&style=flat-square" alt="namgay33" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I craft **beautiful, responsive, and user-centric** web experiences using modern frontend technologies. When I'm not coding, I'm probably learning something new, sketching UI ideas, or sipping tea with a view of the Himalayas ☕🏔️
+- I craft **beautiful, responsive, and user-centric** web experiences using modern frontend technologies. When I'm not coding, I'm probably learning something new, sketching UI ideas, or sipping tea with a view of the Himalayas.
 
-- 🏗️ Currently working on **[eCMS (Electronic Customs Management System)](https://ecms.gov.bt/)**
+- Currently working on **[eCMS (Electronic Customs Management System)](https://ecms.gov.bt/)**.
 
-- 🌱 Currently learning:
-  - ⚛️ React Server Components & Next.js 14
-  - ♿ Web Accessibility (a11y) best practices
-  - 📘 TypeScript patterns for scalable apps
-  - 🎬 Framer Motion for delightful interactions
+- Currently learning:
+  - React Server Components & Next.js 14
+  - Web Accessibility (a11y) best practices
+  - TypeScript patterns for scalable apps
+  - Framer Motion for delightful interactions
 
-- 👯 Looking to collaborate on **anything that relates to my fields**
+- Looking to collaborate on **anything that relates to my fields**.
 
-- 💼 All of my projects are available at:
+- All of my projects are available at:
   - [github.com/namgay33](https://github.com/namgay33)
   - [github.com/therealnamgay](https://github.com/therealnamgay)
 
-- 📫 How to reach me: **namzangs123@gmail.com**
+- How to reach me: **namzangs123@gmail.com**
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/namgay-wangchuk-417366194" target="_blank">
@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Frontend
 <p align="left">
@@ -121,7 +121,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=namgay33&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="namgay33" height="165"/>
@@ -133,7 +133,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=namgay33&theme=radical&no-frame=true&row=1&column=6" alt="namgay33" />
   </a>
 </p>
@@ -141,5 +141,5 @@
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/namgay33">namgay33</a> — Crafting with ❤️ from the Himalayas 🏔️</i>
+  <i>From <a href="https://github.com/namgay33" target="_blank">namgay33</a> — Crafting with care from the Himalayas</i>
 </p>
